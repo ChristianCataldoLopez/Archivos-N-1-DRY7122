@@ -1,0 +1,6 @@
+print ("Bienvenido, este es el ejercicio número 2 el cual le pedirá 4 datos, favor rellenarlos uno por uno a medida que la máquina lo pida")
+nombre = input ("Ingrese su nombre: ")
+apellido = input ("Ingrese su apellido: ")
+seccion = input ("Ingrese sección: ")
+sede = input ("Ingrese sede: ")
+print ("Alumno ",nombre,apellido," su seccion corresponde a",seccion," y su sede es",sede)
